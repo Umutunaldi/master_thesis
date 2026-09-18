@@ -1,0 +1,4 @@
+Best model by normalized DOPE: NPM1_1.B99990030.pdb
+Normalized DOPE score: 0.95977
+DOPE score: -31814.63281
+molpdf: 2739.0327

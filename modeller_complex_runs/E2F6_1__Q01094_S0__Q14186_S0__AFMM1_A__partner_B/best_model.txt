@@ -1,0 +1,4 @@
+Best model by normalized DOPE: E2F6_1.B99990047.pdb
+Normalized DOPE score: -0.12718
+DOPE score: -57909.04297
+molpdf: 2707.1555

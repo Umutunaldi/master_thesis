@@ -1,0 +1,8 @@
+Iso_ID	Inter_ID	Model_Job	Selected_Model	Model_Iso_Chain	Model_Inter_Chain	Model_Iso_Length_AA	Model_Inter_Length_AA	Exact_Model_Chain_Match
+GNMT_1	GNMT	GNMT_1__3THS_B__partner_A	GNMT_1.B99990049.pdb	A	B	295	283	no
+MVK_1	MVK	MVK_1__2R3V_A__partner_B	MVK_1.B99990076.pdb	A	B	396	388	no
+MVK_1	MVK	MVK_1__2R3V_B__partner_A	MVK_1.B99990054.pdb	A	B	396	390	no
+MVK_1	MVK	MVK_1__4HAC_A__partner_B	MVK_1.B99990021.pdb	A	B	396	308	no
+MVK_1	MVK	MVK_1__4HAC_B__partner_A	MVK_1.B99990049.pdb	A	B	396	312	no
+UPP2_1	UPP2	UPP2_1__2XRF_B__partner_C	UPP2_1.B99990099.pdb	A	B	317	286	no
+UPP2_1	UPP2	UPP2_1__2XRF_C__partner_B	UPP2_1.B99990004.pdb	A	B	317	288	no

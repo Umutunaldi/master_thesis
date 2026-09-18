@@ -1,0 +1,4 @@
+Best model by normalized DOPE: UCK1_1.B99990037.pdb
+Normalized DOPE score: -0.94071
+DOPE score: -45741.4375
+molpdf: 1779.8169

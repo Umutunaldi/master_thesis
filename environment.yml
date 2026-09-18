@@ -1,0 +1,17 @@
+name: thesis
+channels:
+  - conda-forge
+  - salilab
+  - bioconda
+dependencies:
+  - python=3.11.11
+  - biopython=1.85
+  - pandas=2.2.2
+  - numpy=2.2.4
+  - openpyxl=3.1.5
+  - requests=2.32.3
+  - seqkit=2.10.0
+  - mmseqs2=17.b804f
+  - modeller=10.8
+  - r-base=4.5.3
+  - r-ggplot2=4.0.3

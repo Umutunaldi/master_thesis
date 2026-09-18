@@ -1,0 +1,4 @@
+Best model by normalized DOPE: GNMT_4.B99990067.pdb
+Normalized DOPE score: -0.92626
+DOPE score: -49914.35938
+molpdf: 2039.5229

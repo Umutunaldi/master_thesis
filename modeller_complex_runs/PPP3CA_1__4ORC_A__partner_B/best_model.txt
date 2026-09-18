@@ -1,0 +1,4 @@
+Best model by normalized DOPE: PPP3CA_1.B99990072.pdb
+Normalized DOPE score: -0.6367
+DOPE score: -75198.80469
+molpdf: 2903.981

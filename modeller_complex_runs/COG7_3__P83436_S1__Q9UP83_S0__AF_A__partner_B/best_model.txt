@@ -1,0 +1,4 @@
+Best model by normalized DOPE: COG7_3.B99990035.pdb
+Normalized DOPE score: -0.38653
+DOPE score: -106232.58594
+molpdf: 2914.8892

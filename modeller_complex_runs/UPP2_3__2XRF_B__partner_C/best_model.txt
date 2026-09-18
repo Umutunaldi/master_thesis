@@ -1,0 +1,4 @@
+Best model by normalized DOPE: UPP2_3.B99990018.pdb
+Normalized DOPE score: -0.99075
+DOPE score: -68434.96094
+molpdf: 5162.4873

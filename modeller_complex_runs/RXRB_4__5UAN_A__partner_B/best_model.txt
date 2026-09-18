@@ -1,0 +1,4 @@
+Best model by normalized DOPE: RXRB_4.B99990057.pdb
+Normalized DOPE score: -0.09719
+DOPE score: -79168.40625
+molpdf: 4688.9497

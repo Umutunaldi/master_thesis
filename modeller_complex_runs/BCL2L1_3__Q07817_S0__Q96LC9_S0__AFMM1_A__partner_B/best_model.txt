@@ -1,0 +1,4 @@
+Best model by normalized DOPE: BCL2L1_3.B99990019.pdb
+Normalized DOPE score: 0.54112
+DOPE score: -18648.96484
+molpdf: 2442.3496

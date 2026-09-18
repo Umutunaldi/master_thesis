@@ -1,0 +1,4 @@
+Best model by normalized DOPE: MVK_1.B99990021.pdb
+Normalized DOPE score: -0.3286
+DOPE score: -75324.5
+molpdf: 4198.0386
